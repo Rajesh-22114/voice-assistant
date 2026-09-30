@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cnt-101",
+    "name": "tony",
+    "phone": "+9148511",
+    "whatsapp_enabled": true,
+    "last_message_sent": "2026-09-08 10:15 AM",
+    "notes": "Lead"
+  },
+  {
+    "id": "cnt-102",
+    "name": "baner",
+    "phone": "+9199999",
+    "whatsapp_enabled": true,
+    "last_message_sent": "2026-09-07 04:30 PM",
+    "notes": "College Friend"
+  },
+  {
+    "id": "cnt-103",
+    "name": "steave",
+    "phone": "+9198678",
+    "whatsapp_enabled": true,
+    "last_message_sent": "2026-09-06 09:12 AM",
+    "notes": "Design Project Partner"
+  },
+  {
+    "id": "cnt-104",
+    "name": "Vikram",
+    "phone": "+9132109",
+    "whatsapp_enabled": true,
+    "last_message_sent": "Never",
+    "notes": "DevOps Engineer"
+  },
+  {
+    "id": "cnt-105",
+    "name": "loki",
+    "phone": "+977777",
+    "whatsapp_enabled": true,
+    "last_message_sent": "2026-09-05 06:45 PM",
+    "notes": "Product Manager"
+  }
+]

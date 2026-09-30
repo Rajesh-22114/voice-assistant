@@ -1,0 +1,25 @@
+{
+  "ai_mode": "ai",
+  "active_provider": "groq",
+  "provider_models": {
+    "gemini": "gemini-2.5-flash",
+    "openai": "gpt-4o-mini",
+    "groq": "openai/gpt-oss-20b",
+    "anthropic": "claude-3-5-sonnet-20241022",
+    "openrouter": "google/gemini-2.5-flash",
+    "ollama": "llama3"
+  },
+  "wake_word": {
+    "enabled": true,
+    "word": "Hey Leo",
+    "sensitivity": 0.8,
+    "noise_filtering": true,
+    "timeout_sec": 7
+  },
+  "startup": {
+    "autostart_enabled": true,
+    "start_minimized": true,
+    "enable_wake_word": true,
+    "run_in_background": true
+  }
+}

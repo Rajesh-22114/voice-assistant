@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Amit Sharma",
+    "phone": "+9198113",
+    "whatsapp_enabled": true,
+    "notes": "Backend Specialist"
+  },
+  {
+    "name": "Kavita Rao",
+    "phone": "+91974566",
+    "whatsapp_enabled": true,
+    "notes": "UI/UX Lead"
+  }
+]
