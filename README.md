@@ -390,5 +390,5 @@ python app.py --minimized
 ## 👤 Author
 
 **LEO AI Assistant Team**
-- **GitHub**: [@your-username](https://github.com/)
+- **GitHub**: [@Rajesh-22114](https://github.com/Rajesh-22114)
 - **Project Repository**: [voice-assistant](https://github.com/your-username/voice-assistant)
